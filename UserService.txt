@@ -2,3 +2,5 @@ Get the use data...
 do the operations
 
 create an avater for user
+
+login and logout
